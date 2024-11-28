@@ -2,4 +2,4 @@
 
 Welcome to my portfolio! You can explore my projects and learn more about me here.
 
-[Visit my website](https://username.github.io)
+[Visit my website](https://Steven-J-Edwards.github.io)
