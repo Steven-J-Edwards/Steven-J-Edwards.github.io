@@ -1,1 +1,1 @@
-# Steven-J-Edwards.github.io
+# Steven Edwards, Ph.D.
